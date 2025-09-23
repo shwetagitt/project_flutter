@@ -1,4 +1,5 @@
-# clubm
+# College Club management app
+
 
 A new Flutter project.
 
